@@ -1,10 +1,5 @@
 {
-  "name": "setup-node-typescript-2023",
-  "version": "1.0.0",
-  "main": "dist/index.js",
-  "repository": "https://github.com/akicodeoficial/setup-node-typescript-2023",
-  "author": "Alan Silva <126093767+akicodeoficial@users.noreply.github.com>",
-  "license": "CC0-1.0",
+  "private": true,
   "scripts": {
     "build": "tsup src",
     "start:prod": "node dist/index.js",
